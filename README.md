@@ -1,2 +1,6 @@
 # palera1nVCORD
-palera1n theme for Vencord
+vencord theme i made cuz boredom :p
+
+# Installation
+
+
