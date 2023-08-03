@@ -1,5 +1,5 @@
 # palera1n for Vencord
-vencord theme i made cuz boredom :p
+basically its just a vencord theme replicating the old palera1n loader
 
 i cant get original font working so im stuck with fira mono💀💀💀
 
